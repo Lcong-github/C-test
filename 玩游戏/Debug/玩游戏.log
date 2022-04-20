@@ -1,0 +1,11 @@
+﻿  源.cpp
+D:\LCONG\RLCONG\大三下\C\玩游戏\源.cpp(75,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\LCONG\RLCONG\大三下\C\玩游戏\源.cpp(96,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\LCONG\RLCONG\大三下\C\玩游戏\源.cpp(101,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\LCONG\RLCONG\大三下\C\玩游戏\源.cpp(108,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\LCONG\RLCONG\大三下\C\玩游戏\源.cpp(109,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\LCONG\RLCONG\大三下\C\玩游戏\源.cpp(120,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\LCONG\RLCONG\大三下\C\玩游戏\源.cpp(134,62): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\LCONG\RLCONG\大三下\C\玩游戏\源.cpp(135,62): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\LCONG\RLCONG\大三下\C\玩游戏\源.cpp(139,27): warning C4018: “<”: 有符号/无符号不匹配
+  玩游戏.vcxproj -> D:\LCONG\RLCONG\大三下\C\玩游戏\Debug\玩游戏.exe
