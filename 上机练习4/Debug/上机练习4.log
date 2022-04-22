@@ -1,0 +1,12 @@
+﻿  源.cpp
+E:\VScode\Xiangmu\上机练习4\源.cpp(13,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\VScode\Xiangmu\上机练习4\源.cpp(13,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\VScode\Xiangmu\上机练习4\源.cpp(16,15): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\VScode\Xiangmu\上机练习4\源.cpp(17,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\VScode\Xiangmu\上机练习4\源.cpp(17,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\VScode\Xiangmu\上机练习4\源.cpp(26,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+E:\VScode\Xiangmu\上机练习4\源.cpp(26,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“double”
+E:\VScode\Xiangmu\上机练习4\源.cpp(27,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\VScode\Xiangmu\上机练习4\源.cpp(27,16): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\VScode\Xiangmu\上机练习4\源.cpp(60,40): warning C4305: “+=”: 从“double”到“float”截断
+  上机练习4.vcxproj -> E:\VScode\Xiangmu\上机练习4\Debug\上机练习4.exe
