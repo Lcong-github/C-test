@@ -1,0 +1,8 @@
+﻿  test.c
+D:\LCONG\RLCONG\大三下\C\金典案例\test.c(111,6): error C2086: “int k”: 重定义
+D:\LCONG\RLCONG\大三下\C\金典案例\test.c(107): message : 参见“k”的声明
+D:\LCONG\RLCONG\大三下\C\金典案例\test.c(111,16): warning C4013: “atrlen”未定义；假设外部返回 int
+D:\LCONG\RLCONG\大三下\C\金典案例\test.c(113,3): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\LCONG\RLCONG\大三下\C\金典案例\test.c(113,3): error C2143: 语法错误: 缺少“)”(在“{”的前面)
+D:\LCONG\RLCONG\大三下\C\金典案例\test.c(113,6): error C2065: “c1”: 未声明的标识符
+D:\LCONG\RLCONG\大三下\C\金典案例\test.c(113,29): error C2065: “cl”: 未声明的标识符
