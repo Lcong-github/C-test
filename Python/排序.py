@@ -14,16 +14,44 @@ li = [54,26,93,17,77,31,44,55,20]
 #         for i in range(j):
 #             if alist[i] > alist[i+1]:   #如果前面的数比后面的数大，则交换位置
 #                 alist[i],alist[i+1] = alist[i+1],alist[i]
+#         print("第%s趟："%i,li)
 # bouble_sort(li)
 # print(li[len(li)-1 ])    #打印最大的一位数
 # =============================================================================
 
 #=============================================================================
-def bouble_s(lli):
-    for i in range(len(lli)):
-        for j in range(i):
-            if lli[j] > lli[j+1]:
-                lli[j],lli[j+1] = lli[j+1],lli[j]
-bouble_s(li)
-print(li)
+# def bouble_s(li):
+#     for i in range(len(li)-1):
+#         m = 0
+#         for j in range(i):
+#             if li[j] > li[j+1]:
+#                 li[j],li[j+1] = li[j+1],li[j]
+                
+#         print("第%s趟："%i,li)
+#         if m == 1:
+#             break
+# bouble_s(li)
+# print(li)
 #=============================================================================
+
+#2、选择排序
+def select_sort(li):
+    for i in range(len(li)-1):  #第i趟
+        min_loc = i             #首先定义一个最小元素，假设为无序区的第一个
+        for j in range(i,len(li)): #无序区范围
+            if li[j] < li[min_loc]:
+                min_loc = j     #最小数的下标
+        li[min_loc],li[i] = li[i],li[min_loc]#交换
+        print("第%s趟"%i,li)
+select_sort(li)
+
+
+
+
+
+
+
+
+
+
+
